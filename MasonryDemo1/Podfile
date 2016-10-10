@@ -1,0 +1,15 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'MasonryDemo1' do
+	pod 'Masonry'
+end
+
+target 'MasonryDemo1Tests' do
+
+end
+
+target 'MasonryDemo1UITests' do
+
+end
+

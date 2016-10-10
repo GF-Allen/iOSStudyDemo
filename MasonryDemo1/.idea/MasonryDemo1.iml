@@ -1,28 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="CIDR_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/Demo1-ahaijntqofvaolcmqidhjvaabqmz/Build/Products/Debug-iphonesimulator/libPods-Demo1.a">
-      <sourceFolder url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/Demo1-ahaijntqofvaolcmqidhjvaabqmz/Build/Products/Debug-iphonesimulator/libPods-Demo1.a" isTestSource="false" />
-    </content>
-    <content url="file://$MODULE_DIR$/../../android/okchexianV4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
-      <sourceFolder url="file://$MODULE_DIR$/../../android/okchexianV4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" isTestSource="false" />
+    <content url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/MasonryDemo1-fujsmycvuustwbdamtgltmjnpzhs/Build/Products/Debug-iphonesimulator/libPods-MasonryDemo1.a">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/MasonryDemo1-fujsmycvuustwbdamtgltmjnpzhs/Build/Products/Debug-iphonesimulator/libPods-MasonryDemo1.a" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Demo1Tests/Demo1Tests.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1Tests/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1UITests/Demo1UITests.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1UITests/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/Assets.xcassets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/ViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/AppDelegate.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/main.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/ViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/AppDelegate.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Demo1/Base.lproj/Main.storyboard" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-Demo1/Pods-Demo1.debug.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-Demo1/Pods-Demo1.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1UITests/MasonryDemo1UITests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1UITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1Tests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1Tests/MasonryDemo1Tests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/ViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/AppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/bt-p@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/main.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/ViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/AppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MasonryDemo1/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1-Masonry/Pods-MasonryDemo1-Masonry-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1-Masonry/Pods-MasonryDemo1-Masonry-Private.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1-Masonry/Pods-MasonryDemo1-Masonry.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1-Masonry/Pods-MasonryDemo1-Masonry-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1-resources.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1-environment.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1.debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-MasonryDemo1/Pods-MasonryDemo1-acknowledgements.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraint+Private.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/Masonry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASLayoutConstraint.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASLayoutConstraint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewAttribute.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewConstraint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/View+MASShorthandAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewAttribute.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASUtilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraint.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

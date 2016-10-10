@@ -6,6 +6,7 @@
 //  Copyright © 2016年 alen. All rights reserved.
 //
 #import "ViewController.h"
+#import "Masonry.h"
 
 @interface ViewController () <UITextFieldDelegate, UITextViewDelegate> {
 @public
